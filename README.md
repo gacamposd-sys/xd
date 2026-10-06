@@ -7,3 +7,4 @@ xd
  
 Ejecución: python3 pokeapi.py
 
+gabriel sinci
